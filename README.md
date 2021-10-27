@@ -1,8 +1,8 @@
 ## Hi there! Welcome to my profile! 👨‍💻👋
 <div align="center">
   <a href="https://github.com/MateusFS99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusFS99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFS99&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusFS99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFS99&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   
@@ -24,6 +24,7 @@
   <img align="center" alt="mfs-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="mfs-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="mfs-Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="mfs-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
 </div>
 <div> 
   
@@ -37,7 +38,7 @@
 ### Here are some things for you to get to know me:
 - 👨‍🎓 I'm currently finishing my degree in computer science.
 - 🔭 I’m currently working as a Java full-stack developer.
-- 🌱 I’m currently learning Angular.js | React.js | Node.js
+- 🌱 I’m currently learning Angular.js | React.js
 - 👨‍💼 I’m looking to work as a Project Maneger.
 - 💬 Ask me about anything you want!
 - ❤💻 I'm an IT enthusiast.
