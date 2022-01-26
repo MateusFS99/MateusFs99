@@ -37,7 +37,7 @@
   
 ### Here are some things for you to get to know me:
 - 👨‍🎓 I'm graduated in computer science.
-- 🌱 I’m currently learning Angular.js | React.js | AWS
+- 🌱 I’m currently learning Angular.js | React.js | AWS | Docker
 - 👨‍💼 I’m looking to work as a Project Maneger.
 - 💬 Ask me about anything you want!
 - ❤💻 I'm an IT enthusiast.
