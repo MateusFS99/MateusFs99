@@ -11,6 +11,7 @@
   <img align="center" alt="mfs-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="mfs-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="mfs-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="mfs-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="mfs-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="mfs-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="mfs-netcore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
@@ -33,11 +34,10 @@
 </div>
   
 ### Here are some things for you to get to know me:
-- 👨‍💻 I’m currently working as a Developer using Spring Boot | Angular.js | Vue.js
-- 👨‍🎓 I'm graduated in computer science.
-- 🌱 I’m currently learning Flutter | React.js | AWS | Docker
-- 👨‍💼 I’m looking to work as a Project Manager.
+- 👨‍💻 I’m currently working as a Software Engineer II using Spring Boot | Angular.js | Vue.js
+- 👨‍🎓 I'm graduated in Computer Science.
+- 🌱 I’m currently learning AWS | Docker
+- 👨‍💼 I’m looking to work as a Software Architect.
 - 💬 Ask me about anything you want!
-- ❤💻 I'm an IT enthusiast.
 
 ![Snake animation](https://github.com/MateusFs99/MateusFs99/blob/output/github-contribution-grid-snake.svg)
